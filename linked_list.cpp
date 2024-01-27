@@ -8,7 +8,7 @@ class node
 }*first=NULL;
 
 
-
+// this is a comment
 void count(node* head)
 {
     int count=0;
